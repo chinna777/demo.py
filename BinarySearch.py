@@ -23,8 +23,7 @@ l1=[22,77,7,4,5,6,26,54]
 n=int(input('enter the number :'))
 
 search(l1,n)
-print('hi')
-print('hello')
+
 
 
 
