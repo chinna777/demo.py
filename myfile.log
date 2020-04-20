@@ -1,0 +1,5 @@
+INFO:root:entering the required inputs
+INFO:root:writing the output to the file
+INFO:root:reading the csv file into reader object
+INFO:root:inserting the list data into oracle db
+INFO:root:fetching the inserted data 
